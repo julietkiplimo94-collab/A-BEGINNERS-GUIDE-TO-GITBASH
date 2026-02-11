@@ -42,7 +42,7 @@ Fill in all the necessary fields, e.g., profile picture, name, and Bio informati
 
 **Congratulations! You have successfully created a GitHub account.**
 
-####How to Install Git / Gitbash :####
+#### How to Install Git / Gitbash : ####
 
 *Step 1:*
 
@@ -71,7 +71,7 @@ Once the program has finished downloading on your machine,open and run the progr
 
 -------------------------------------------------------------------------
 
-### How to connect your Git to your Gitbash account using commands.####
+### How to connect your Git to your Gitbash account using commands. ####
 
 **Follow the following steps**
 
@@ -131,9 +131,9 @@ Once the program has finished downloading on your machine,open and run the progr
 
 ------------------------------------------------------------------------
 
-##**Now Let's learn a few more commands on git!**##
+## **Now Let's learn a few more commands on git!** ##
 
-### 1. Version Control on git###
+### 1. Version Control on git ###
 
 Git is the most commonly used software for version control because of the following features:
 
@@ -143,7 +143,7 @@ Git is the most commonly used software for version control because of the follow
 
 - It can restore any version of the project because it keeps a permanent, unaltered record of every commit made in the entire project.
 
-###2. Push and Pull code on git.###
+### 2. Push and Pull code on git. ###
 
 ***Pushing*** and ***pulling*** are terms used to refer to the communication between your local machine and a remote server repository where code is stored (github in this case). 
 
@@ -163,11 +163,11 @@ git add
 git pull --rebase
 
 ```
-###3. Tracking code on git.###
+### 3. Tracking code on git. ###
 
 Tracking code on git is monitoring any unsaved modifications and the history of any permanent changes that have been made to the project.
 
-##Below are a few commands to track any changes in your work directory.##
+## Below are a few commands to track any changes in your work directory. ##
 
 - ***To check the project's current overall status***
 
@@ -205,7 +205,7 @@ Tracking code on git is monitoring any unsaved modifications and the history of 
 
 --------------------------------------------------------------------------
 
-###Thank you for reading my article to the end !!###
+### Thank you for reading my article to the end !! ###
 
 I hope you find it informative and educational. Please comment and let me know what you think about my article!!
 

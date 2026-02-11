@@ -31,7 +31,7 @@ Check out this article on how you can install and configure Git also known as *g
  
 ***Now that you know the tools, let's get started!***
 
-#### How to Install GitHub Locally:####
+#### How to Install GitHub Locally: ####
 
 *Step 1:*
 Open your default browser and search *github*, click the first link, and sign up. OR follow this link to [Github and sign up](https://github.com/)

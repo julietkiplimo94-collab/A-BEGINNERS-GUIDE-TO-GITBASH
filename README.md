@@ -5,7 +5,7 @@ This article will introduce you to Gitbash and how to push and pull requests on 
 ![Git](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1q8m7t23bpz9rdx1iv6g.png)
 
 
-##**Are you a newbie on git like me?**##
+## **Are you a newbie on git like me?** ##
 
 
 Check out this article on how you can install and configure Git also known as *gitbash* and connect it to your GitHub account on a Windows operating system, using commands and prompts.
